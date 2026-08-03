@@ -38,10 +38,15 @@ When no motion is detected, the LED turns OFF after the programmed delay.
 Verify the operation by repeating the simulation several times.
 
 **Circuit Diagram **
+<img width="941" height="567" alt="Screenshot 2026-08-03 113411" src="https://github.com/user-attachments/assets/20026bec-129d-4bbe-a79c-74f05c06b69a" />
+
 
 
 
 **Output**
+<img width="1120" height="682" alt="966722b9-60b9-46cf-9199-9176bbbbeedc" src="https://github.com/user-attachments/assets/d2fdd3d1-745a-49ba-8f00-80b2099c0563" />
+
+
 
 
 
